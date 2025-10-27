@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\s12\\Documents\\GitHub\\MalwareTechniques\\SocialMediaExfiltrator\\TelegramExfiltrator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0447A84E-7773-4148-B731-987C2D2CB27E}|TelegramExfiltrator\\TelegramExfiltrator.vcxproj|C:\\Users\\s12\\Documents\\GitHub\\MalwareTechniques\\SocialMediaExfiltrator\\TelegramExfiltrator\\TelegramExfiltrator\\TelegramExfiltrator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0447A84E-7773-4148-B731-987C2D2CB27E}|TelegramExfiltrator\\TelegramExfiltrator.vcxproj|solutionrelative:TelegramExfiltrator\\TelegramExfiltrator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TelegramExfiltrator.cpp",
+              "DocumentMoniker": "C:\\Users\\s12\\Documents\\GitHub\\MalwareTechniques\\SocialMediaExfiltrator\\TelegramExfiltrator\\TelegramExfiltrator\\TelegramExfiltrator.cpp",
+              "RelativeDocumentMoniker": "TelegramExfiltrator\\TelegramExfiltrator.cpp",
+              "ToolTip": "C:\\Users\\s12\\Documents\\GitHub\\MalwareTechniques\\SocialMediaExfiltrator\\TelegramExfiltrator\\TelegramExfiltrator\\TelegramExfiltrator.cpp",
+              "RelativeToolTip": "TelegramExfiltrator\\TelegramExfiltrator.cpp",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAswH4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-15T19:30:29.187Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
